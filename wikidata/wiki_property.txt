@@ -1,0 +1,3 @@
+P31 instance_of
+P279 subclass_of
+
